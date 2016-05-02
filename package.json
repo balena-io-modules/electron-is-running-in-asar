@@ -1,0 +1,18 @@
+{
+  "name": "electron-is-running-in-asar",
+  "version": "1.0.0",
+  "description": "Check if the application is running from inside an asar package",
+  "license": "MIT",
+  "repository": "jviotti/electron-is-running-in-asar",
+  "author": {
+    "name": "Juan Cruz Viotti",
+    "email": "jviottidc@gmail.com",
+    "url": "https://github.com/jviotti"
+  },
+  "keywords": [
+    "electron",
+    "asar",
+    "package",
+    "packaged"
+  ]
+}
