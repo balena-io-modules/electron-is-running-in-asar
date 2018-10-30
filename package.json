@@ -3,12 +3,8 @@
   "version": "1.0.0",
   "description": "Check if the application is running from inside an asar package",
   "license": "MIT",
-  "repository": "jviotti/electron-is-running-in-asar",
-  "author": {
-    "name": "Juan Cruz Viotti",
-    "email": "jviottidc@gmail.com",
-    "url": "https://github.com/jviotti"
-  },
+  "repository": "balena-io-modules/electron-is-running-in-asar",
+  "author": "Balena Inc. <hello@balena.io>",
   "keywords": [
     "electron",
     "asar",
