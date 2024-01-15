@@ -22,8 +22,12 @@
  * THE SOFTWARE.
  */
 
+/*
+ * mainModule in the process deprecated. We can use 'main' instead.
+ */
+
 'use strict';
 
 module.exports = function() {
-	return process.mainModule.filename.indexOf('app.asar') !== -1;
+	return process.main.filename.indexOf('app.asar') !== -1;
 };
